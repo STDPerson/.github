@@ -14,3 +14,8 @@ The repositories, files, and scripts hosted within this organization are provide
 By accessing, downloading, or executing any code from these repositories, the user acknowledges and agrees that they assume full responsibility and accountability for its utilization. The maintainer of this organization explicitly disclaims any and all liability regarding how the provided materials are applied by third parties. 
 
 Under no circumstances shall the maintainer be held liable for any misuse, unintended consequences, system damages, or illegal activities—including but not limited to cybercrime, terms of service violations, or unauthorized access—resulting from the deployment of these scripts. The software is provided "as is," without warranty of any kind. All responsibility and associated risks rest entirely in the hands of the end user.
+
+now we focus at : 
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</div>
